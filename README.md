@@ -1,1 +1,0 @@
-# diabetes_management_app
